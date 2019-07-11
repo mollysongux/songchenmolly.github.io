@@ -1,4 +1,4 @@
-# [Qualitative Methods](3-user-testing.md)
+# [Qualitative Methods](2-qualitative.md)
 
 # [User Testing](3-user-testing.md)
 
