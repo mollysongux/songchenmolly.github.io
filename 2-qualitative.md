@@ -1,3 +1,5 @@
+# [Qualitative Methods](3-user-testing.md)
+
 # [User Testing](3-user-testing.md)
 
 **Click task** 
