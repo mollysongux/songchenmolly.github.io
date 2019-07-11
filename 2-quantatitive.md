@@ -1,9 +1,5 @@
 # [Click Task](3-click-task.md)
-
 # [Card Sort Task](3-card-sort.md)
-
 # [A/B Test](3-ab.md)
-
 # [Google Analytics](3-ga.md)
-
 # [Survey (Closed-end Question)](3-survey.md)
